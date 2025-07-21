@@ -14,7 +14,7 @@ Enjoy classic gameplay with a modern look, including vibrant button colors and a
 ## 🖥️ Screenshots
 
 <!-- Add your screenshot here -->
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](Screenshot.jpg)
 
 ## 🚀 Getting Started
 
