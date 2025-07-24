@@ -26,8 +26,8 @@ Enjoy classic gameplay with a modern look, including vibrant button colors and a
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-❌⭕
-   cd tic-tac-toe-❌⭕
+   git clone https://github.com/yourusername/tic-tac-toe
+   cd tic-tac-to
    ```
 
 2. **(Optional) Install custom font**  
